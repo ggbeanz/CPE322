@@ -16,7 +16,8 @@ Skills and Interests
 - Drawing
 - Cooking/Baking
 ---
-`ENGR322- Assignment 0`(https://github.com/ggbeanz/CPE322/blob/main/ENGR322-%20Assignment%200.ipynb)
+`Assignments`
+- [ENGR322- Assignment 0](https://github.com/ggbeanz/CPE322/blob/main/ENGR322-%20Assignment%200.ipynb)
 
 [Best U.S. National Parks](https://travel.usnews.com/rankings/best-national-parks-in-the-usa/)
 ![GitHub Logo](https://github.com/ggbeanz/CPE322/blob/main/Nature%20Stock%20Photo.jpg)
