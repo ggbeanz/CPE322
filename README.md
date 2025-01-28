@@ -16,8 +16,17 @@ Skills and Interests
 - Drawing
 - Cooking/Baking
 ---
-`Assignments`
-- [ENGR322- Assignment 0](https://github.com/ggbeanz/CPE322/blob/main/ENGR322-%20Assignment%200.ipynb)
-
+```python
+#user inputs a number
+num1= float(input ("Enter 1st number: "))
+num2= float(input ("Enter 2nd number: "))
+#operations
+print("Addition:", num1 + num2)
+print("Subtraction", num1 - num2)
+print("Multiplication", num1 * num2)
+print("Division", num1 / num2)
+```
+---
 [Best U.S. National Parks](https://travel.usnews.com/rankings/best-national-parks-in-the-usa/)
+
 ![GitHub Logo](https://github.com/ggbeanz/CPE322/blob/main/Nature%20Stock%20Photo.jpg)
