@@ -27,6 +27,8 @@ print("Multiplication", num1 * num2)
 print("Division", num1 / num2)
 ```
 ---
+[Design VI Google Sites Page](https://sites.google.com/d/1gKph5oTHx2SAKXQqhECUpc4LjFwzs4wF/p/1WQJG3L9pJgaptfx8nHlmHoqLXnRVhNpX/edit?pli=1)
+
 [Best U.S. National Parks](https://travel.usnews.com/rankings/best-national-parks-in-the-usa/)
 
 ![GitHub Logo](https://github.com/ggbeanz/CPE322/blob/main/Nature%20Stock%20Photo.jpg)
