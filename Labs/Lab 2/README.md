@@ -6,36 +6,31 @@ Go to the IOT repository. Review Lessons 1 and 2. Then, open a terminal and ente
  Document results to GitHub repository.
 
 ## hostname
-![image](https://github.com/user-attachments/assets/19f0614b-0258-4207-bfe4-cdccfacdfef3)
+![image](https://github.com/user-attachments/assets/b8935210-69ef-4cc9-bba4-db3c0cc670e3)
 
 ## env
-![image](https://github.com/user-attachments/assets/fcb75243-fa7f-4bd8-85c0-34087252ebce)
-![image](https://github.com/user-attachments/assets/4b2df89f-4eaf-44ca-8a41-96df77957541)
+![image](https://github.com/user-attachments/assets/e02f5cce-9c00-47f6-9170-088491040513)
 
 ## ps
-![image](https://github.com/user-attachments/assets/b28726af-33af-496c-915b-a39577bcabd8)
-![image](https://github.com/user-attachments/assets/7cd19705-8ecc-474f-863b-757fcf60ac76)
-![image](https://github.com/user-attachments/assets/8df0e523-c9bb-4337-b629-987841dea183)
-![image](https://github.com/user-attachments/assets/292a5c80-b05c-4f3d-9b19-6cd637303ab3)
-![image](https://github.com/user-attachments/assets/540edf40-2a40-4013-9a71-e79ef3d449e1)
+![image](https://github.com/user-attachments/assets/486116c0-2a35-475a-8e78-c8c83883b7ac)
 
 ## pwd
-![image](https://github.com/user-attachments/assets/c7dbbb25-65b5-4893-9900-0f7f7dea3b23)
+![image](https://github.com/user-attachments/assets/9d439b3f-42df-452d-bece-78cb0b4be907)
 
 ## git clone https://github.com/kevinwlu/iot.git
-![image](https://github.com/user-attachments/assets/dd37d4af-f093-42fd-b2b3-38a1c1b59e98)
+![image](https://github.com/user-attachments/assets/ad8dc5e8-33a1-4a82-8b1d-f41bf67f6c25)
 
 ## cd iot
-![image](https://github.com/user-attachments/assets/f8f80d36-b69f-4f6b-943d-c29e78a47012)
+![image](https://github.com/user-attachments/assets/ccf8b87c-357d-40d4-af7b-6160e03cad48)
 
 ## ls
-![image](https://github.com/user-attachments/assets/eff7fc75-5431-4b52-a03d-73e15cd4abb4)
+![image](https://github.com/user-attachments/assets/4e03747a-83e2-4fc2-ac83-1190b4d520ce)
 
 ## cd
-This command returns you to the previous directory
+![image](https://github.com/user-attachments/assets/179ff115-930b-430d-9f9b-5b691a58a3ba)
 
 ## df
-![image](https://github.com/user-attachments/assets/1823e3fd-0191-4b5a-b69e-25d9370e6874)
+![image](https://github.com/user-attachments/assets/63ff82af-fbe7-4032-9c4d-8546be81690c)
 
 ## mkdir demo
 ![image](https://github.com/user-attachments/assets/4acbe4ec-0d46-49df-9419-d279e73af1c5)
@@ -66,11 +61,17 @@ This command clears the terminal
 ![image](https://github.com/user-attachments/assets/53676ffb-bc4e-4fc3-81db-cca310c6ffc3)
 
 ## man uname
+![image](https://github.com/user-attachments/assets/de9f325e-d81d-4f5b-a17a-8cdb0f0ef954)
 
 ## uname -a
+![image](https://github.com/user-attachments/assets/a0398417-4151-4bd3-ac7c-017a9765607c)
 
 ## ifconfig
+![image](https://github.com/user-attachments/assets/95b8c3eb-fae9-4d89-8c2c-8de5d9e0faa4)
 
 ## ping localhost
+![image](https://github.com/user-attachments/assets/68b52071-63b9-48af-aea9-1d9bd76ed6ca)
 
 ## netstat
+![image](https://github.com/user-attachments/assets/183727a5-30a3-4975-ab74-b047fa96038e)
+![image](https://github.com/user-attachments/assets/6618b8e0-6135-4d10-993b-93330d132ae5)
