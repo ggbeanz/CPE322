@@ -17,6 +17,7 @@ Go to the IOT GitHub repository and review lesson 3. Install required Python pac
 ![image](https://github.com/user-attachments/assets/c05848e2-b9fb-4ad7-940a-fc85c8bc7430)
 
 ## python3 sun.py "New York"
+![image](https://github.com/user-attachments/assets/c3a0deed-95ae-4069-9b8c-69b7db15fd9f)
 
 ## python3 moon.py
 ![image](https://github.com/user-attachments/assets/976a5e35-63b3-4e3f-9573-96d48eb78afb)
@@ -28,8 +29,10 @@ Go to the IOT GitHub repository and review lesson 3. Install required Python pac
 ![image](https://github.com/user-attachments/assets/de59510c-8e65-4359-833c-2e99bc044a5f)
 
 ## python3 cpu.py
+![image](https://github.com/user-attachments/assets/37fb3ff5-6d9f-48c9-b6c4-f71f3cf6435e)
 
 ## python3 battery.py
+![image](https://github.com/user-attachments/assets/e926bcfc-c127-4224-82b4-b1d34f86c71f)
 
 ## python3 documentstats.py document.txt
 ![image](https://github.com/user-attachments/assets/a86c06a6-ae62-4702-904f-d8770bae5b38)
